@@ -1,0 +1,9 @@
+/Users/hexaware/Downloads/AlaskaXC/AlaskaXC/bin/Debug/AlaskaXC.dll
+/Users/hexaware/Downloads/AlaskaXC/AlaskaXC/bin/Debug/AlaskaXC.pdb
+/Users/hexaware/Downloads/AlaskaXC/AlaskaXC/bin/Debug/Newtonsoft.Json.dll
+/Users/hexaware/Downloads/AlaskaXC/AlaskaXC/bin/Debug/Newtonsoft.Json.xml
+/Users/hexaware/Downloads/AlaskaXC/AlaskaXC/obj/Debug/AlaskaXC.csprojAssemblyReference.cache
+/Users/hexaware/Downloads/AlaskaXC/AlaskaXC/obj/Debug/AlaskaXC.csproj.CoreCompileInputs.cache
+/Users/hexaware/Downloads/AlaskaXC/AlaskaXC/obj/Debug/AlaskaXC.csproj.CopyComplete
+/Users/hexaware/Downloads/AlaskaXC/AlaskaXC/obj/Debug/AlaskaXC.dll
+/Users/hexaware/Downloads/AlaskaXC/AlaskaXC/obj/Debug/AlaskaXC.pdb
